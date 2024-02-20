@@ -19,6 +19,8 @@
 <br><br>
 <img align="center" alt="Victor Cordeiro - Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
 <img align="center" alt="Victor Cordeiro - AWS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"><br><br>
- 
-
+<h4><b>Estudando / Learning </b></h4>
+<img align="center" alt="Victor Cordeiro - Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
+<img align="center" alt="Victor Cordeiro - Supabase" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg"><br><br>
+<img align="center" alt="Victor Cordeiro - Tailwind" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"> <br><br>
 </div>
