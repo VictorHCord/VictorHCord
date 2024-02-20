@@ -4,7 +4,12 @@
 - 🌱 I’m currently learning Redux Sagas / Docker
 - 📫 How to reach me: victor_hugo.cordeiro@hotmail.com
 - 😄 Pronouns: ele/dele
-
+<div> 
+  <h4><b>Contato / Contact</b></h4>
+  <a href="https://instagram.com/hugovictor_hg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:victor_hugo.cordeiro@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/vihcord" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div><br>
 <div>
   <a href="https://github.com/VictorHCord">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorHCord&theme=dark&show_icons=true">
@@ -19,8 +24,10 @@
 <br><br>
 <img align="center" alt="Victor Cordeiro - Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
 <img align="center" alt="Victor Cordeiro - AWS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"><br><br>
-<h4><b>Estudando / Learning </b></h4>
+<h4><b>Estudando / Learning</b></h4>
 <img align="center" alt="Victor Cordeiro - Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
 <img align="center" alt="Victor Cordeiro - Supabase" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg"><br><br>
 <img align="center" alt="Victor Cordeiro - Tailwind" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"> <br><br>
 </div>
+
+
