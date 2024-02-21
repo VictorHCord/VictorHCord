@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on Front-end Web - Front-end Mobile
 - 🌱 I’m currently learning Redux Sagas / Docker
-- 📫 How to reach me: victor_hugo.cordeiro@hotmail.com
 - 😄 Pronouns: ele/dele
 <div> 
   <h4><b>Contato / Contact</b></h4>
