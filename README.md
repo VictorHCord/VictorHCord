@@ -27,7 +27,7 @@
 <img align="center" alt="Victor Cordeiro - Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
 <img align="center" alt="Victor Cordeiro - Supabase" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg"><br><br>
 <img align="center" alt="Victor Cordeiro - Tailwind" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
-<img align="center" alt="Victor Cordeiro - Tailwind" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg">
+<img align="center" alt="Victor Cordeiro - Github Actions" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg">
 <br><br>
 </div>
 
