@@ -1,8 +1,7 @@
 ### Opa, jovens/ Hi, guys 👋
 
 - 🔭 I’m currently working on Front-end Web - Front-end Mobile
-- 🌱 I’m currently learning Redux Sagas / Docker
-- 😄 Pronouns: ele/dele
+- 🌱 I’m currently learning Zustand
 <div> 
   <h4><b>Contato / Contact</b></h4>
   <a href="https://instagram.com/hugovictor_hg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
